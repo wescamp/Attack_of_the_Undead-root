@@ -2,14 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-02-25 23:27+0100\n"
-"PO-Revision-Date: 2007-02-24 16:55+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2007-07-25 18:41+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
+"Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
+"DOT com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead.cfg:9
@@ -17,39 +19,46 @@ msgid "Attack of the Undead"
 msgstr ""
 
 #: Attack_of_the_Undead.cfg:13
+#, fuzzy
 msgid "(easy)"
-msgstr ""
+msgstr "(lätt)"
 
 #: Attack_of_the_Undead.cfg:13
+#, fuzzy
 msgid "Mage"
-msgstr ""
+msgstr "Magiker"
 
 #: Attack_of_the_Undead.cfg:14
+#, fuzzy
 msgid "White Mage"
-msgstr ""
+msgstr "Vit magiker"
 
 #: Attack_of_the_Undead.cfg:14
+#, fuzzy
 msgid "(normal)"
-msgstr ""
+msgstr "(normal)"
 
 #: Attack_of_the_Undead.cfg:15
+#, fuzzy
 msgid "Mage of Light"
-msgstr ""
+msgstr "Ljusets magiker"
 
 #: Attack_of_the_Undead.cfg:15
+#, fuzzy
 msgid "(hard)"
-msgstr ""
+msgstr "(svårt)"
 
 #: Attack_of_the_Undead.cfg:16
 msgid "Play as a mage to protect your city from the undead."
 msgstr ""
 
 #: Attack_of_the_Undead.cfg:19
+#, fuzzy
 msgid "Campaign Designer"
-msgstr ""
+msgstr "Kampanjdesigner"
 
 #: Attack_of_the_Undead.cfg:23
-msgid "Current Maintainer"
+msgid "Translators"
 msgstr ""
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
@@ -109,8 +118,9 @@ msgid "Skal-Ka"
 msgstr ""
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:62
+#, fuzzy
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "Håll ställningarna till dragen tar slut"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:66
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:66
@@ -154,8 +164,9 @@ msgstr ""
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:62
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:49
+#, fuzzy
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Besegra fiendens ledare"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:70
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:57
@@ -166,8 +177,9 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:74
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:61
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:90
+#, fuzzy
 msgid "Turns run out"
-msgstr ""
+msgstr "Dragen tar slut"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:82
 msgid ""
@@ -202,16 +214,18 @@ msgid "Just recently."
 msgstr ""
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
+#, fuzzy
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:127
 msgid "We will go north with you to defeat them."
 msgstr ""
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:131
+#, fuzzy
 msgid "Thank you."
-msgstr ""
+msgstr "Tack."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:160
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:131
@@ -272,8 +286,9 @@ msgid "We have defeated them, now let us pass through here."
 msgstr ""
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:185
+#, fuzzy
 msgid "I have failed!"
-msgstr ""
+msgstr "Jag har misslyckats!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:193
 msgid "Now we will never get through..."
@@ -312,13 +327,23 @@ msgid ""
 msgstr ""
 
 #: Attack_of_the_Undead/units/Demilich.cfg:4
+#, fuzzy
 msgid "Demilich"
-msgstr ""
+msgstr "Dödsbesvärjare"
 
 #: Attack_of_the_Undead/units/Demilich.cfg:21
+#, fuzzy
 msgid ""
 "After too much time dabbling with forbidden magics and dark arts, these magi "
 "have begun to pay a heavy price. Demiliches have started losing their "
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Dessa magiker har tillbringat alltför mycket tid med förbjuden magi och "
+"mörkrets konster, vilket har börjat utkräva ett högt pris. Dödsbesvärjare "
+"förlorar långsamt sina kroppar och blir så småningom vandöda, och fruktas av "
+"alla."
+
+#, fuzzy
+#~ msgid "Current Maintainer"
+#~ msgstr "Huvudansvarig"
