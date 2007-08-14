@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-02-25 23:27+0100\n"
-"PO-Revision-Date: 2007-02-24 16:55+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2007-07-25 18:41+0200\n"
+"PO-Revision-Date: 2007-08-14 21:43+0100\n"
+"Last-Translator: Simon Sobisch\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,47 +14,47 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead.cfg:9
 msgid "Attack of the Undead"
-msgstr ""
+msgstr "Angriff der Untoten"
 
 #: Attack_of_the_Undead.cfg:13
 msgid "(easy)"
-msgstr ""
+msgstr "(leicht)"
 
 #: Attack_of_the_Undead.cfg:13
 msgid "Mage"
-msgstr ""
+msgstr "Magier"
 
 #: Attack_of_the_Undead.cfg:14
 msgid "White Mage"
-msgstr ""
+msgstr "Weißer MAgier"
 
 #: Attack_of_the_Undead.cfg:14
 msgid "(normal)"
-msgstr ""
+msgstr "(normal)"
 
 #: Attack_of_the_Undead.cfg:15
 msgid "Mage of Light"
-msgstr ""
+msgstr "Magier des Lichtes"
 
 #: Attack_of_the_Undead.cfg:15
 msgid "(hard)"
-msgstr ""
+msgstr "(schwer)"
 
 #: Attack_of_the_Undead.cfg:16
 msgid "Play as a mage to protect your city from the undead."
-msgstr ""
+msgstr "Spiel als ein Magier und schütze deine Stadt vor den Untoten."
 
 #: Attack_of_the_Undead.cfg:19
 msgid "Campaign Designer"
-msgstr ""
+msgstr "Entwickler der Kampagne"
 
 #: Attack_of_the_Undead.cfg:23
-msgid "Current Maintainer"
+msgid "Translators"
 msgstr ""
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
-msgstr ""
+msgstr "Der Student"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:22
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:21
@@ -62,258 +62,278 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:21
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:25
 msgid "Ryan"
-msgstr ""
+msgstr "Ryan"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:34
 msgid "Deven"
-msgstr ""
+msgstr "Deven"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:44
 msgid ""
 "In a remote part of Wesnoth, there is a mage city where young mages learn "
 "away from the outside world."
 msgstr ""
+"In einem entfernten Teil von Wesnoth gibt es eine Stadt der Magier, in der "
+"junge Magier abseits der restlichen Welt studieren."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:47
 msgid "One day, two students, Ryan and Deven.."
-msgstr ""
+msgstr "Eines Tages zwischen den beiden Studenten Ryan und Deven.."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:57
 msgid "Hello Deven."
-msgstr ""
+msgstr "Hallo Deven."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:61
 msgid "Hehehehee..."
-msgstr ""
+msgstr "Hehehehee..."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:69
 msgid "Suddenly Deven vanished."
-msgstr ""
+msgstr "Plötzlich verschwindet Deven."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:80
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:73
 msgid "Deven?"
-msgstr ""
+msgstr "Deven?"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:77
 msgid "What happened?"
-msgstr ""
+msgstr "Was ist passiert?"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:34
 msgid "Marth"
-msgstr ""
+msgstr "Marth"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:47
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:47
 msgid "Skal-Ka"
-msgstr ""
+msgstr "Skal-Ka"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:62
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "Überlebe das Rundenlimit"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:66
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:66
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:53
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
 msgid "Death of Ryan"
-msgstr ""
+msgstr "Ryan fällt in der Schlacht"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:74
 msgid ""
 "Two months after Deven's mysterious disappearance, undead hordes were "
 "sighted coming towards the mage city..."
 msgstr ""
+"Zwei Monate nach dem mysteriösen Verschwinden von Deven wurden untote Horden "
+"gesehen, die sich auf die Satdt der Magier zubewegten."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:84
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
 msgstr ""
+"Schaut nur, die Untoten greifen uns vom Süden an, Ich muss sie so lange "
+"aufhalten wie ich nur kann."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:92
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
 msgstr ""
+"Wir müsen flüchten. Es gibt ein Dorf im Norden, vielleicht können die "
+"Bewohner uns helfen."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:106
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:146
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:117
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:157
 msgid "All is lost, the undead will destroy us!"
-msgstr ""
+msgstr "Alles ist verloren, die Untoten werden uns überrennen!"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:4
 msgid "Help From the Villagers"
-msgstr ""
+msgstr "Hilfe von den Dorfbewohnern"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:33
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:31
 msgid "Ben"
-msgstr ""
+msgstr "Ben"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:62
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:49
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Besiege den gegnerischen Anführer"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:70
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:57
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
 msgid "Death of Ben"
-msgstr ""
+msgstr "Death of Ben"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:74
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:61
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:90
 msgid "Turns run out"
-msgstr ""
+msgstr "\tRundenlimit überschritten"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:82
 msgid ""
 "Ryan and the other mages headed towards the village in the north with the "
 "undead on pursuit."
 msgstr ""
+"Ryan und die anderen Magier gingen in die Richtung des Dorfes im Norden, "
+"dicht gefolgt von den Untoten."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:92
 msgid "Our home was ransacked by the undead, and now they're following us."
-msgstr ""
+msgstr "Unsere Heimat wurde von Untoten geplündert und nun folgen sie uns."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:96
 msgid "We will help you defeat them."
-msgstr ""
+msgstr "Wir werden Euch dabei helfen sie zu besiegen."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
 msgid "They're gone."
-msgstr ""
+msgstr "Sie sind weg."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
 msgstr ""
+"Nein, die Untoten haben auch hier angegriffen und sie scheinen aus Norden zu "
+"kommen."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "For how long have they been attacking?"
-msgstr ""
+msgstr "Wie lange greifen sie schon an?"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
 msgid "Just recently."
-msgstr ""
+msgstr "Erst seid kurzem."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:127
 msgid "We will go north with you to defeat them."
-msgstr ""
+msgstr "Wir werden mit euch nach Norden ziehen um sie zu besiegen."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:131
 msgid "Thank you."
-msgstr ""
+msgstr "Danke!"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:160
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:131
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:171
 msgid "I will never see my village again!"
-msgstr ""
+msgstr "Ich werede nie wieder mein Dorf sehen können!"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:171
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:142
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "Nein, sie haben uns überrannt!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:4
 msgid "Test of Darkness"
-msgstr ""
+msgstr "Versuch der Dunkelheit"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:46
 msgid "Skal-Sol"
-msgstr ""
+msgstr "Skal-Sol"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:59
 msgid "Muff Ter"
-msgstr ""
+msgstr "Muff Ter"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
 msgid "Move Ryan to the signpost in the north"
-msgstr ""
+msgstr "Bewege Ryan zu dem Wegpunkt im Norden"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
 msgid "Defeat the enemy leaders (Bonus)"
-msgstr ""
+msgstr "Besiegt alle gegnerischen Anführer (Bonus)"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:105
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
 msgstr ""
+"Schaut nur, sie versuchen an uns vorbeizukommen. Unser Meister hat uns "
+"befohlen sie nicht vorbei zu lassen."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:109
 msgid "There are undead all about!"
-msgstr ""
+msgstr "Sie sind alle untot!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:113
 msgid "Yes, but we must get through here nonetheless."
-msgstr ""
+msgstr "Ja, aber wir müssen trotzdem hier durch kommen."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
 msgid "We've gotten through."
-msgstr ""
+msgstr "Wir sind durchgekommen."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:130
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
 msgstr ""
+"Gut, das Tal aus dem die Untoten kommen ist nur noch einen kurzen Weg von "
+"hier entfernt."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:142
 msgid "We have defeated them, now let us pass through here."
-msgstr ""
+msgstr "Wir haben sie besiegt, lasst uns nun an diesem Ort vorbeiziehen."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:185
 msgid "I have failed!"
-msgstr ""
+msgstr "Ich habe versagt."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:193
 msgid "Now we will never get through..."
-msgstr ""
+msgstr "Nun werden wir nie vorbeikommen."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:4
 msgid "The Last Straw"
-msgstr ""
+msgstr "Der letzte Strohhalm"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:34
 msgid "Muff Jal"
-msgstr ""
+msgstr "Muff Jal"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:76
 msgid "This is it."
-msgstr ""
+msgstr "Das war's."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:84
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
 msgstr ""
+"Das ist nicht länger mein Name. Ich bin mächtiger als du es je sein "
+"könntest. Ich bin der Meister. Muhhhaaa! Wir werden euch zerquetschen!"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:95
 msgid "Deven? What happened?"
-msgstr ""
+msgstr "Deven? Was ist passiert?"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:99
 msgid "And so passes Deven, once a mage."
-msgstr ""
+msgstr "Und so stirbt Deven, einst ein Magier."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:103
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
 msgstr ""
+"Und er steht nun als Zeugnis für diese Gruppe von Magiern, was passiert, "
+"wenn man sich mit den dunklen Künsten einlässt."
 
 #: Attack_of_the_Undead/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Demi-Lich"
 
 #: Attack_of_the_Undead/units/Demilich.cfg:21
 msgid ""
@@ -322,3 +342,11 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Nachdem Sie sich zu lange an verbotener Magie und dunklen Künsten "
+"beschäftigt haben, bezahlen diese Magier nun langsam den schweren Preis "
+"dafür. Demi-Lichs haben damit begonnen ihre Körper zu verlieren und werden "
+"langsam selbst zu Untoten. Mit der Zeit könnten sie ganz untot und damit von "
+"allen gefürchtet werden."
+
+#~ msgid "Current Maintainer"
+#~ msgstr "Momentaner Betreuer"
