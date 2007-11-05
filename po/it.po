@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-11-02 02:55+0100\n"
-"PO-Revision-Date: 2007-02-26 12:18+0100\n"
+"PO-Revision-Date: 2007-11-04 17:41+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -47,13 +47,12 @@ msgstr ""
 "morti."
 
 #: Attack_of_the_Undead.cfg:19
-#, fuzzy
 msgid "Campaign Design"
-msgstr "Progettista della campagna"
+msgstr "Progetto della campagna"
 
 #: Attack_of_the_Undead.cfg:25
 msgid "Translation"
-msgstr ""
+msgstr "Traduzione"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
@@ -253,7 +252,7 @@ msgstr "Ci sono non-morti dappertutto!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:108
 msgid "Yes, but we must get through here nonetheless."
-msgstr "Sì, ma noi dobbiamo lo stesso passare."
+msgstr "Sì, ma noi dobbiamo passare comunque."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:121
 msgid "We've gotten through."
@@ -336,9 +335,3 @@ msgstr ""
 "oscure, questi magi hanno cominciato a pagare un caro prezzo. I mezzolich "
 "hanno cominciato perdere i loro corpi, diventando essi stessi non-morti. Con "
 "il tempo, possono diventare non-morti appieno e temuti da tutti."
-
-#~ msgid "Noooo, they have overrun us!"
-#~ msgstr "Nooo, ci hanno travolto!"
-
-#~ msgid "Current Maintainer"
-#~ msgstr "Gestore attuale"
