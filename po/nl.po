@@ -3,58 +3,59 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-11-02 02:55+0100\n"
-"PO-Revision-Date: 2007-02-24 16:55+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-11-15 23:05+0100\n"
+"Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
+"Language-Team: none <foppe.benedictus@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Dutch\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead.cfg:9
 msgid "Attack of the Undead"
-msgstr ""
+msgstr "Aanval van de Ondoden"
 
 #: Attack_of_the_Undead.cfg:13
 msgid "(easy)"
-msgstr ""
+msgstr "(makkelijk)"
 
 #: Attack_of_the_Undead.cfg:13
 msgid "Mage"
-msgstr ""
+msgstr "Magiër"
 
 #: Attack_of_the_Undead.cfg:14
 msgid "White Mage"
-msgstr ""
+msgstr "Witte Magiër"
 
 #: Attack_of_the_Undead.cfg:14
 msgid "(normal)"
-msgstr ""
+msgstr "(normaal)"
 
 #: Attack_of_the_Undead.cfg:15
 msgid "Mage of Light"
-msgstr ""
+msgstr "Magiër van het Licht"
 
 #: Attack_of_the_Undead.cfg:15
 msgid "(hard)"
-msgstr ""
+msgstr "(moeilijk)"
 
 #: Attack_of_the_Undead.cfg:16
 msgid "Play as a mage to protect your city from the undead."
-msgstr ""
+msgstr "Speel als een Magiër en bescherm je stad van de Ondoden."
 
 #: Attack_of_the_Undead.cfg:19
 msgid "Campaign Design"
-msgstr ""
+msgstr "Campagne Vormgeving"
 
 #: Attack_of_the_Undead.cfg:25
 msgid "Translation"
-msgstr ""
+msgstr "Vertaling"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
-msgstr ""
+msgstr "De Student"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:17
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:16
@@ -62,248 +63,265 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:16
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:20
 msgid "Ryan"
-msgstr ""
+msgstr "Ryan"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:29
 msgid "Deven"
-msgstr ""
+msgstr "Deven"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:39
 msgid ""
 "In a remote part of Wesnoth, there is a mage city where young mages learn "
 "away from the outside world."
 msgstr ""
+"In een afgelegen deel van Wesnoth ligt de Stad der Magiërs waar jonge "
+"Magiërs trainen ver buiten het bereik van de rest van de wereld."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:42
 msgid "One day, two students, Ryan and Deven.."
-msgstr ""
+msgstr "Op een dag, twee studenten, Ryan en Deven.."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:52
 msgid "Hello Deven."
-msgstr ""
+msgstr "Hallo Deven"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:56
 msgid "Hehehehee..."
-msgstr ""
+msgstr "Muhahaha!"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:66
 msgid "Suddenly Deven vanished."
-msgstr ""
+msgstr "Plotseling was Deven verdwenen."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:75
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:70
 msgid "Deven?"
-msgstr ""
+msgstr "Deven?"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:74
 msgid "What happened?"
-msgstr ""
+msgstr "Wat is er gebeurd?"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:29
 msgid "Marth"
-msgstr ""
+msgstr "Marth"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:42
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:42
 msgid "Skal-Ka"
-msgstr ""
+msgstr "Skal-Ka"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:57
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "Bied weerstand tot het aantal beurten verstreken is."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:77
 msgid "Death of Ryan"
-msgstr ""
+msgstr "Dood van Ryan"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:69
 msgid ""
 "Two months after Deven's mysterious disappearance, undead hordes were "
 "sighted coming towards the mage city..."
 msgstr ""
+"Twee maanden na de mysterieuze verdwijning van Deven werden er horden "
+"Ondoden gesignaleerd die richting de Stad der Magiërs marcheerden."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:79
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
 msgstr ""
+"Aanschouw! De Ondoden vallen aan vanuit het zuiden. Ik moet ze zo lang "
+"mogelijk weren."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:87
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
 msgstr ""
+"We moeten ontsnappen. In het noorden ligt een dorp dat wellicht hulp kan "
+"bieden."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:4
 msgid "Help From the Villagers"
-msgstr ""
+msgstr "Hulp Van de Dorpelingen"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:28
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:26
 msgid "Ben"
-msgstr ""
+msgstr "Ben"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:57
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Versla de vijandelijke leider"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:81
 msgid "Death of Ben"
-msgstr ""
+msgstr "Dood van Ben"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:85
 msgid "Turns run out"
-msgstr ""
+msgstr "Het aantal beurten is op"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:77
 msgid ""
 "Ryan and the other mages headed towards the village in the north with the "
 "undead on pursuit."
 msgstr ""
+"Ryan en de andere Magiërs haastten zich naar het dorp in het Noorden met de "
+"Ondoden vlak achter hen."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:87
 msgid "Our home was ransacked by the undead, and now they're following us."
-msgstr ""
+msgstr "Ons thuis is geplunderd door de Ondoden en nu volgen ze ons!"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "We will help you defeat them."
-msgstr ""
+msgstr "We zullen je helpen hen te verslaan."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:99
 msgid "They're gone."
-msgstr ""
+msgstr "Ze zijn weg."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
 msgstr ""
+"Nee, de Ondoden hebben ook hier aangevallen. Het lijkt erop dat zij uit het "
+"Noorden komen."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
 msgid "For how long have they been attacking?"
-msgstr ""
+msgstr "Sinds wanneer vallen zij aan?"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
 msgid "Just recently."
-msgstr ""
+msgstr "Sinds kort."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
 msgid "We will go north with you to defeat them."
-msgstr ""
+msgstr "We zullen naar het noorden gaan en de Ondoden verslaan!"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
 msgid "Thank you."
-msgstr ""
+msgstr "Dank je."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:4
 msgid "Test of Darkness"
-msgstr ""
+msgstr "Test van Duisternis."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:41
 msgid "Skal-Sol"
-msgstr ""
+msgstr "Skal-Sol"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:54
 msgid "Muff Ter"
-msgstr ""
+msgstr "Muff Ter"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:69
 msgid "Move Ryan to the signpost in the north"
-msgstr ""
+msgstr "Breng Ryan naar de wegwijzer in het noorden."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:73
 msgid "Defeat the enemy leaders (Bonus)"
-msgstr ""
+msgstr "Versla de vijandelijke leiders (Bonus)"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:100
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
 msgstr ""
+"Kijk, ze proberen door te breken. Onze meester heeft ons geboden ze niet te "
+"laten passeren."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:104
 msgid "There are undead all about!"
-msgstr ""
+msgstr "Overal zijn de Ondoden!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:108
 msgid "Yes, but we must get through here nonetheless."
-msgstr ""
+msgstr "Ja, maar toch moeten we doorgaan."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:121
 msgid "We've gotten through."
-msgstr ""
+msgstr "We hebben het gered."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:125
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
-msgstr ""
+msgstr "Goed. De vallei van waar de Ondoden aanvallen is niet ver van hier."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:137
 msgid "We have defeated them, now let us pass through here."
-msgstr ""
+msgstr "We hebben ze verslagen. Kom we gaan verder!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:152
 msgid "All is lost, the undead will destroy us!"
-msgstr ""
+msgstr "Alles is verloren. De Ondoden zullen ons van de kaart vegen."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:166
 msgid "I will never see my village again!"
-msgstr ""
+msgstr "Ik zal mijn dorp nooit meer zien!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:180
 msgid "I have failed!"
-msgstr ""
+msgstr "Ik heb gefaald!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:188
 msgid "Now we will never get through..."
-msgstr ""
+msgstr "Nu komen we er nooit doorheen!"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:4
 msgid "The Last Straw"
-msgstr ""
+msgstr "De Laatste Strohalm"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:29
 msgid "Muff Jal"
-msgstr ""
+msgstr "Muff Jal"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:71
 msgid "This is it."
-msgstr ""
+msgstr "Dit is de plek."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:79
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
 msgstr ""
+"Dat is niet langer mijn naam! Ik ben nu machtiger dan jij ooit zou kunnen "
+"worden. Ik ben de meerster! Muhahaha! We zullen jullie verpletteren!"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:87
 msgid "Deven? What happened?"
-msgstr ""
+msgstr "Deven? Wat is er gebeurd?"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:91
 msgid "And so passes Deven, once a mage."
-msgstr ""
+msgstr "Ooit was hij een Magiër, nu is hij dood!"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:95
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
 msgstr ""
+"Hij staat als een testament voor Magiërs die de duistere krachten aanboren."
 
 #: Attack_of_the_Undead/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Halflich"
 
 #: Attack_of_the_Undead/units/Demilich.cfg:21
 msgid ""
@@ -312,3 +330,7 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Na teveel te hebben geëxperimenteerd met de verboden spreuken en duistere "
+"kunsten begonnen deze Magiërs met het betalen van een zware prijs. De "
+"lichamen van de Halflichs begonnen af te takelen en fysiek te degenereren. "
+"Uiteindeljik kunnen zij volledig Ondode worden, gevreesd door iedereen."
