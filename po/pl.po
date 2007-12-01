@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-01 01:04+0100\n"
+"POT-Creation-Date: 2007-12-01 01:52+0100\n"
 "PO-Revision-Date: 2007-03-19 23:43+0100\n"
 "Last-Translator: Mikołaj Witkowski <mikolajwitkowski@yahoo.pl>\n"
 "Language-Team: none\n"
@@ -13,44 +13,44 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
-#: Attack_of_the_Undead/_main.cfg:9 Attack_of_the_Undead.cfg:9
+#: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
 msgstr "Atak nieumarłych"
 
-#: Attack_of_the_Undead/_main.cfg:13 Attack_of_the_Undead.cfg:13
+#: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
 msgstr "Mag"
 
-#: Attack_of_the_Undead/_main.cfg:13 Attack_of_the_Undead.cfg:13
+#: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
 msgstr "(łatwy)"
 
-#: Attack_of_the_Undead/_main.cfg:14 Attack_of_the_Undead.cfg:14
+#: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
 msgstr "(normalny)"
 
-#: Attack_of_the_Undead/_main.cfg:14 Attack_of_the_Undead.cfg:14
+#: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
 msgstr "Biały Mag"
 
-#: Attack_of_the_Undead/_main.cfg:15 Attack_of_the_Undead.cfg:15
+#: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
 msgstr "Mag Światła"
 
-#: Attack_of_the_Undead/_main.cfg:15 Attack_of_the_Undead.cfg:15
+#: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
 msgstr "(trudny)"
 
-#: Attack_of_the_Undead/_main.cfg:16 Attack_of_the_Undead.cfg:16
+#: Attack_of_the_Undead/_main.cfg:16
 msgid "Play as a mage to protect your city from the undead."
 msgstr "Zagraj magiem by obronić swoje miasto przed nieumarłymi"
 
-#: Attack_of_the_Undead/_main.cfg:19 Attack_of_the_Undead.cfg:19
+#: Attack_of_the_Undead/_main.cfg:19
 #, fuzzy
 msgid "Campaign Design"
 msgstr "Projektant Kampanii"
 
-#: Attack_of_the_Undead/_main.cfg:25 Attack_of_the_Undead.cfg:25
+#: Attack_of_the_Undead/_main.cfg:25
 msgid "Translation"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-01 01:04+0100\n"
+"POT-Creation-Date: 2007-12-01 01:52+0100\n"
 "PO-Revision-Date: 2007-11-15 23:05+0100\n"
 "Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
 "Language-Team: none <foppe.benedictus@gmail.com>\n"
@@ -13,43 +13,43 @@ msgstr ""
 "X-Poedit-Language: Dutch\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
-#: Attack_of_the_Undead/_main.cfg:9 Attack_of_the_Undead.cfg:9
+#: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
 msgstr "Aanval van de Ondoden"
 
-#: Attack_of_the_Undead/_main.cfg:13 Attack_of_the_Undead.cfg:13
+#: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
 msgstr "Magiër"
 
-#: Attack_of_the_Undead/_main.cfg:13 Attack_of_the_Undead.cfg:13
+#: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
 msgstr "(makkelijk)"
 
-#: Attack_of_the_Undead/_main.cfg:14 Attack_of_the_Undead.cfg:14
+#: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
 msgstr "(normaal)"
 
-#: Attack_of_the_Undead/_main.cfg:14 Attack_of_the_Undead.cfg:14
+#: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
 msgstr "Witte Magiër"
 
-#: Attack_of_the_Undead/_main.cfg:15 Attack_of_the_Undead.cfg:15
+#: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
 msgstr "Magiër van het Licht"
 
-#: Attack_of_the_Undead/_main.cfg:15 Attack_of_the_Undead.cfg:15
+#: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
 msgstr "(moeilijk)"
 
-#: Attack_of_the_Undead/_main.cfg:16 Attack_of_the_Undead.cfg:16
+#: Attack_of_the_Undead/_main.cfg:16
 msgid "Play as a mage to protect your city from the undead."
 msgstr "Speel als een Magiër en bescherm je stad van de Ondoden."
 
-#: Attack_of_the_Undead/_main.cfg:19 Attack_of_the_Undead.cfg:19
+#: Attack_of_the_Undead/_main.cfg:19
 msgid "Campaign Design"
 msgstr "Campagne Vormgeving"
 
-#: Attack_of_the_Undead/_main.cfg:25 Attack_of_the_Undead.cfg:25
+#: Attack_of_the_Undead/_main.cfg:25
 msgid "Translation"
 msgstr "Vertaling"
 

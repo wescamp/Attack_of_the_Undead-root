@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-01 01:04+0100\n"
+"POT-Creation-Date: 2007-12-01 01:52+0100\n"
 "PO-Revision-Date: 2007-02-26 13:27+0200\n"
 "Last-Translator: Joe Hansen <dansk@dansk-gruppen.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -17,44 +17,44 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
-#: Attack_of_the_Undead/_main.cfg:9 Attack_of_the_Undead.cfg:9
+#: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
 msgstr "De udødes angreb"
 
-#: Attack_of_the_Undead/_main.cfg:13 Attack_of_the_Undead.cfg:13
+#: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
 msgstr "Troldmand"
 
-#: Attack_of_the_Undead/_main.cfg:13 Attack_of_the_Undead.cfg:13
+#: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
 msgstr "(let)"
 
-#: Attack_of_the_Undead/_main.cfg:14 Attack_of_the_Undead.cfg:14
+#: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
 msgstr "(normal)"
 
-#: Attack_of_the_Undead/_main.cfg:14 Attack_of_the_Undead.cfg:14
+#: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
 msgstr "Hvid troldmand"
 
-#: Attack_of_the_Undead/_main.cfg:15 Attack_of_the_Undead.cfg:15
+#: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
 msgstr "Lystroldmand"
 
-#: Attack_of_the_Undead/_main.cfg:15 Attack_of_the_Undead.cfg:15
+#: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
 msgstr "(svær)"
 
-#: Attack_of_the_Undead/_main.cfg:16 Attack_of_the_Undead.cfg:16
+#: Attack_of_the_Undead/_main.cfg:16
 msgid "Play as a mage to protect your city from the undead."
 msgstr "Spil som en troldmand og beskyt din by mod de udøde."
 
-#: Attack_of_the_Undead/_main.cfg:19 Attack_of_the_Undead.cfg:19
+#: Attack_of_the_Undead/_main.cfg:19
 #, fuzzy
 msgid "Campaign Design"
 msgstr "Kampagne designer"
 
-#: Attack_of_the_Undead/_main.cfg:25 Attack_of_the_Undead.cfg:25
+#: Attack_of_the_Undead/_main.cfg:25
 msgid "Translation"
 msgstr ""
 
