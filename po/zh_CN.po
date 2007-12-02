@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-01 01:52+0100\n"
-"PO-Revision-Date: 2007-02-24 16:55+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2007-09-21 18:42+1000\n"
+"Last-Translator: luojie-dune <luojie-dune@operamail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,39 +13,40 @@ msgstr ""
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
-msgstr ""
+msgstr "亡灵的袭击"
 
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
-msgstr ""
+msgstr "魔法师"
 
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
-msgstr ""
+msgstr "（容易）"
 
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
-msgstr ""
+msgstr "（正常）"
 
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
-msgstr ""
+msgstr "白魔法师"
 
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
-msgstr ""
+msgstr "光明魔法师"
 
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
-msgstr ""
+msgstr "（困难）"
 
 #: Attack_of_the_Undead/_main.cfg:16
 msgid "Play as a mage to protect your city from the undead."
-msgstr ""
+msgstr "作一位魔法师保护你的城市免受亡灵的袭击"
 
 #: Attack_of_the_Undead/_main.cfg:19
+#, fuzzy
 msgid "Campaign Design"
-msgstr ""
+msgstr "战役设计"
 
 #: Attack_of_the_Undead/_main.cfg:25
 msgid "Translation"
@@ -53,220 +54,222 @@ msgstr ""
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
-msgstr ""
+msgstr "魔法学徒"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:39
 msgid ""
 "In a remote part of Wesnoth, there is a mage city where young mages learn "
 "away from the outside world."
-msgstr ""
+msgstr "在韦诺大陆的边陲，有一个让年轻魔法师们远离大千世界专心学习的魔法城市。"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:42
 msgid "One day, two students, Ryan and Deven.."
-msgstr ""
+msgstr "一天，两位魔法学徒，赖安和德文......"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:52
 msgid "Hello Deven."
-msgstr ""
+msgstr "嘿，德文。"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:56
 msgid "Hehehehee..."
-msgstr ""
+msgstr "呵呵呵呵......"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:66
 msgid "Suddenly Deven vanished."
-msgstr ""
+msgstr "德文突然消失了。"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:75
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:70
 msgid "Deven?"
-msgstr ""
+msgstr "德文？"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:74
 msgid "What happened?"
-msgstr ""
+msgstr "怎么回事？"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:57
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "坚持到回合结束"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
 msgid "Death of Ryan"
-msgstr ""
+msgstr "赖安死亡"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:69
 msgid ""
 "Two months after Deven's mysterious disappearance, undead hordes were "
 "sighted coming towards the mage city..."
-msgstr ""
+msgstr "在德文神秘失踪两个月后，不死灵王把目标对准了这个魔法城市......"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:79
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
-msgstr ""
+msgstr "看，亡灵正从南方进攻，我得尽力拖住它们。"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:87
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
-msgstr ""
+msgstr "我们必须撤退，北方有个村庄，也许他们可以帮助我们。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:4
 msgid "Help From the Villagers"
-msgstr ""
+msgstr "来自村庄的援助"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:57
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "击败敌人首领"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
 msgid "Death of Ben"
-msgstr ""
+msgstr "本死亡"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
 msgid "Turns run out"
-msgstr ""
+msgstr "回合用尽"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:77
 msgid ""
 "Ryan and the other mages headed towards the village in the north with the "
 "undead on pursuit."
-msgstr ""
+msgstr "赖安和其他魔法师们在亡灵的追赶下向北部村庄进发。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:87
 msgid "Our home was ransacked by the undead, and now they're following us."
-msgstr ""
+msgstr "我们的家园被亡灵洗劫了，现在它们又来追我们了。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "We will help you defeat them."
-msgstr ""
+msgstr "我们来帮你们击败它们。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:99
 msgid "They're gone."
-msgstr ""
+msgstr "它们走了。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
-msgstr ""
+msgstr "不，亡灵们也攻击这里，它们好像来自北方。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
 msgid "For how long have they been attacking?"
-msgstr ""
+msgstr "它们进攻多久了？"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
 msgid "Just recently."
-msgstr ""
+msgstr "就在前不久。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Hmmm..."
-msgstr ""
+msgstr "嗯......"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
 msgid "We will go north with you to defeat them."
-msgstr ""
+msgstr "我们准备和你一起去北方和它们战斗。"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
 msgid "Thank you."
-msgstr ""
+msgstr "谢谢。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:4
 msgid "Test of Darkness"
-msgstr ""
+msgstr "黑暗的试探"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:70
 msgid "Move Ryan to the signpost in the north"
-msgstr ""
+msgstr "让赖恩到达北部路标"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
 msgid "Defeat the enemy leaders (Bonus)"
-msgstr ""
+msgstr "击败所有敌人首领（附加奖励）"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:101
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
-msgstr ""
+msgstr "看，他们想通过，主人让我们拦住他们。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:105
 msgid "There are undead all about!"
-msgstr ""
+msgstr "这儿四周全是亡灵！"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:109
 msgid "Yes, but we must get through here nonetheless."
-msgstr ""
+msgstr "是的，尽管如此我们仍然必须通过这里。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:122
 msgid "We've gotten through."
-msgstr ""
+msgstr "我们终于过来了。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
-msgstr ""
+msgstr "很好，亡灵要来这儿的话这只有山谷这一条小路。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:138
 msgid "We have defeated them, now let us pass through here."
-msgstr ""
+msgstr "我们已经击败它们了，现在我们通过这里吧。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:153
 #: Attack_of_the_Undead/utils/deaths.cfg:10
 msgid "All is lost, the undead will destroy us!"
-msgstr ""
+msgstr "全都沦陷了，亡灵会杀了我们！"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:167
 #: Attack_of_the_Undead/utils/deaths.cfg:24
 msgid "I will never see my village again!"
-msgstr ""
+msgstr "我以后再也看不到我的村庄了。"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:181
 msgid "I have failed!"
-msgstr ""
+msgstr "我失败了！"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:189
 msgid "Now we will never get through..."
-msgstr ""
+msgstr "我们过不去了......"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:4
 msgid "The Last Straw"
-msgstr ""
+msgstr "压垮骆驼的稻草"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:71
 msgid "This is it."
-msgstr ""
+msgstr "就是他。"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:79
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
 msgstr ""
+"那不再是我的名字了，我现在无比强大－－你们梦寐以求的，我是大魔法师了，哈哈哈"
+"哈哈哈！我将碾碎你们！"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:87
 msgid "Deven? What happened?"
-msgstr ""
+msgstr "德文？你怎么了？"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:91
 msgid "And so passes Deven, once a mage."
-msgstr ""
+msgstr "如此死去的德文，曾经是个魔法师。"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:95
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
-msgstr ""
+msgstr "而且他是一个魔法师沾染了黑暗魔法的例子..."
 
 #: Attack_of_the_Undead/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "半巫妖"
 
 #: Attack_of_the_Undead/units/Demilich.cfg:21
 msgid ""
@@ -275,7 +278,37 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"在长时间沉浸在违禁魔法和黑暗艺术下，这些魔法师们开始付出了沉重代价。半巫妖们"
+"开始丧失了他们的肉体，自己变成了亡灵。经过时间的推移，他们变成了真正的亡灵，"
+"并被同类所恐惧。"
 
 #: Attack_of_the_Undead/utils/deaths.cfg:35
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "不------！它们淹没了我们！"
+
+#~ msgid "Current Maintainer"
+#~ msgstr "当前维护者"
+
+#~ msgid "Ryan"
+#~ msgstr "赖安"
+
+#~ msgid "Deven"
+#~ msgstr "德文"
+
+#~ msgid "Marth"
+#~ msgstr "马斯"
+
+#~ msgid "Skal-Ka"
+#~ msgstr "斯卡尔-卡"
+
+#~ msgid "Ben"
+#~ msgstr "本"
+
+#~ msgid "Skal-Sol"
+#~ msgstr "斯卡尔-索尔"
+
+#~ msgid "Muff Ter"
+#~ msgstr "姆夫 特尔"
+
+#~ msgid "Muff Jal"
+#~ msgstr "姆夫 加尔"
