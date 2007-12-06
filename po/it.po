@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-12-01 01:52+0100\n"
-"PO-Revision-Date: 2007-11-04 17:41+0100\n"
+"PO-Revision-Date: 2007-12-02 17:38+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
-"Language-Team: none\n"
+"Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead/_main.cfg:9
@@ -302,7 +304,7 @@ msgstr ""
 
 #: Attack_of_the_Undead/utils/deaths.cfg:35
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "Noooo, ci hanno travolto!"
 
 #~ msgid "Ryan"
 #~ msgstr "Ryan"
