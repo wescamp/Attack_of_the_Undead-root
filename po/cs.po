@@ -1,273 +1,294 @@
+# translation of cs.po to Czech
+# Czech translation for Battle for Wesnoth user made campaign "Attack of undead".
+# Český překlad rozšíření hry Battle for Wesnoth (Bitva o Wesnoth)
+#   - tažení "Attack of undead".
+#
+# Czech Wesnoth translation team - 
+# Karel Doleček <KDolecek@seznam.cz>, 2007,
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-12-01 01:52+0100\n"
-"PO-Revision-Date: 2007-02-24 16:55+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2008-01-13 17:58+0100\n"
+"PO-Revision-Date: 2008-01-10 17:02+0100\n"
+"Last-Translator: Vladimír Slávik <slavik.vladimir@seznam.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Basepath: D:\\Dokumenty\\Translations\\Wescamp"
+"\\Attack_of_the_Undead-po\n"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:4
 #: Attack_of_the_Undead/_main.cfg:9
 msgid "Attack of the Undead"
-msgstr ""
+msgstr "Útok Nemrtvých"
 
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "Mage"
-msgstr ""
+msgstr "Mág"
 
 #: Attack_of_the_Undead/_main.cfg:13
 msgid "(easy)"
-msgstr ""
+msgstr "(jednoduchá)"
 
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "(normal)"
-msgstr ""
+msgstr "(běžná)"
 
 #: Attack_of_the_Undead/_main.cfg:14
 msgid "White Mage"
-msgstr ""
+msgstr "Bílý Mág"
 
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "Mage of Light"
-msgstr ""
+msgstr "Mág Světla"
 
 #: Attack_of_the_Undead/_main.cfg:15
 msgid "(hard)"
-msgstr ""
+msgstr "(obtížná)"
 
 #: Attack_of_the_Undead/_main.cfg:16
 msgid "Play as a mage to protect your city from the undead."
-msgstr ""
+msgstr "Hraj jako mág a ochraň své město před nemrtvými."
 
 #: Attack_of_the_Undead/_main.cfg:19
 msgid "Campaign Design"
-msgstr ""
+msgstr "Návrh tažení"
 
 #: Attack_of_the_Undead/_main.cfg:25
 msgid "Translation"
-msgstr ""
+msgstr "Překlad"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:4
 msgid "The Student"
-msgstr ""
+msgstr "Student"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:39
 msgid ""
 "In a remote part of Wesnoth, there is a mage city where young mages learn "
 "away from the outside world."
 msgstr ""
+"Ve vzdálené části Wesnothu stojí město Mágů, kde se mladí mágové učí, tak "
+"vzdáleni od vnějšího světa."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:42
 msgid "One day, two students, Ryan and Deven.."
-msgstr ""
+msgstr "Studovali tam dva studenti jménem Ryan a Deven..."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:52
 msgid "Hello Deven."
-msgstr ""
+msgstr "Ahoj Devene."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:56
 msgid "Hehehehee..."
-msgstr ""
+msgstr "Hehehehehe..."
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:66
 msgid "Suddenly Deven vanished."
-msgstr ""
+msgstr "Najednou Deven zmizel."
 
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:75
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:70
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:75
 msgid "Deven?"
-msgstr ""
+msgstr "Devene?"
 
 #: Attack_of_the_Undead/scenarios/1_The_Student.cfg:74
 msgid "What happened?"
-msgstr ""
+msgstr "Co se stalo?"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:57
 msgid "Resist until the end of the turns"
-msgstr ""
+msgstr "Odolávej do konce kol."
 
-#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:61
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:78
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:48
+#: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:61
 msgid "Death of Ryan"
-msgstr ""
+msgstr "Ryan zemře"
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:69
 msgid ""
 "Two months after Deven's mysterious disappearance, undead hordes were "
 "sighted coming towards the mage city..."
 msgstr ""
+"Dva měsíce po záhadném zmizení Devena byly spatřeny nemrtvé hordy "
+"pochodující směrem k městu Mágů."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:79
 msgid ""
 "Look, Undead are attacking from the south, I must hold them off for as long "
 "as I can."
-msgstr ""
+msgstr "Podívej! Nemrtví útočí z jihu. Musím je zadržet jak dlouho budu moci."
 
 #: Attack_of_the_Undead/scenarios/2_Attack_of_the_Undead.cfg:87
 msgid ""
 "We must escape, there is a village to the north, perhaps they can help us."
 msgstr ""
+"Musíme uprchnout. Je tu jedna vesnice na severu. Možná nám tam pomohou. "
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:4
 msgid "Help From the Villagers"
-msgstr ""
+msgstr "Pomoc vesničanů"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:57
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:44
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Poraz nepřátelského velitele"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:65
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:82
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:52
 msgid "Death of Ben"
-msgstr ""
+msgstr "Ben zemře"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:69
-#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:86
+#: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:56
 msgid "Turns run out"
-msgstr ""
+msgstr "Vyprší počet kol"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:77
 msgid ""
 "Ryan and the other mages headed towards the village in the north with the "
 "undead on pursuit."
 msgstr ""
+"Ryan a další mágové zamířili k vesnici na severu pronásledováni nemrtvými"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:87
 msgid "Our home was ransacked by the undead, and now they're following us."
-msgstr ""
+msgstr "Náš domov byl vypleněn nemrtvými a ti nás teď pronásledují."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:91
 msgid "We will help you defeat them."
-msgstr ""
+msgstr "Pomůžeme vám je porazit."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:99
 msgid "They're gone."
-msgstr ""
+msgstr "Zmizeli."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:103
 msgid ""
 "No, the undead have attacked here as well, and they seem to be coming from "
 "the north."
-msgstr ""
+msgstr "Ne, nemrtví tady také zaútočili a zdá se, že šli na sever."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:107
 msgid "For how long have they been attacking?"
-msgstr ""
+msgstr "Jak dlouho útočili?"
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:111
 msgid "Just recently."
-msgstr ""
+msgstr "Jen krátce."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:115
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmm."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:119
 msgid "We will go north with you to defeat them."
-msgstr ""
+msgstr "Půjdeme na sever a rozdrtíme je."
 
 #: Attack_of_the_Undead/scenarios/3_Help_From_the_Villagers.cfg:123
 msgid "Thank you."
-msgstr ""
+msgstr "Díky."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:4
 msgid "Test of Darkness"
-msgstr ""
+msgstr "Zkouška Temnoty"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:70
 msgid "Move Ryan to the signpost in the north"
-msgstr ""
+msgstr "Přesuň Ryana k ukazateli na severu."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:74
 msgid "Defeat the enemy leaders (Bonus)"
-msgstr ""
+msgstr "Poraž nepřátelské velitele (Bonus)"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:101
 msgid ""
 "Look, there trying to get through. Our master told us not to let them past."
-msgstr ""
+msgstr "Snaží se dostat skrz. Náš pán přikázal, že se jim to nesmí podařit."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:105
 msgid "There are undead all about!"
-msgstr ""
+msgstr "Všude jsou nemrtví!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:109
 msgid "Yes, but we must get through here nonetheless."
-msgstr ""
+msgstr "Ano, ale stejně se přes ně musíme dostat."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:122
 msgid "We've gotten through."
-msgstr ""
+msgstr "Podařilo se!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:126
 msgid ""
 "Good, the valley that the undead are coming from is only a little ways from "
 "here."
-msgstr ""
+msgstr "Dobrá. Údolí z kterého přicházejí nemrtví je jen kousek odtud."
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:138
 msgid "We have defeated them, now let us pass through here."
-msgstr ""
+msgstr "Porazili jsme je, tak pojďme dál."
 
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:153
 #: Attack_of_the_Undead/utils/deaths.cfg:10
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:153
 msgid "All is lost, the undead will destroy us!"
-msgstr ""
+msgstr "Všechno je ztraceno, nemrtví nás zničí!"
 
-#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:167
 #: Attack_of_the_Undead/utils/deaths.cfg:24
+#: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:167
 msgid "I will never see my village again!"
-msgstr ""
+msgstr "Nikdy už neuvidím svou vesnici!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:181
 msgid "I have failed!"
-msgstr ""
+msgstr "Selhal jsem!"
 
 #: Attack_of_the_Undead/scenarios/4_Test_of_Darkness.cfg:189
 msgid "Now we will never get through..."
-msgstr ""
+msgstr "Teď nikdy neprojdeme!"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:4
 msgid "The Last Straw"
-msgstr ""
+msgstr "Poslední Stéblo"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:71
 msgid "This is it."
-msgstr ""
+msgstr "Tak to je ono."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:79
 msgid ""
 "That is no longer my name. I am more powerful then you could ever become. I "
 "am the master. Muhhhaaa! We will crush you!"
 msgstr ""
+"To už není mé jméno. Jsem mocnější než by jsi se mohl kdy stát. Jsem Mistr! "
+"Muhahaha! Rozdrtíme tě!"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:87
 msgid "Deven? What happened?"
-msgstr ""
+msgstr "Devene? Co se stalo?"
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:91
 msgid "And so passes Deven, once a mage."
-msgstr ""
+msgstr "A tak odchází Deven, kdysi Mág."
 
 #: Attack_of_the_Undead/scenarios/5_The_Last_Straw.cfg:95
 msgid ""
 "And he stood as a testament for that group of mages of what happens when one "
 "meddles with the dark arts..."
 msgstr ""
+"A tak se stal pro tuto skupinku připomínkou, co se stane, když se zapletete "
+"s temným učením."
 
 #: Attack_of_the_Undead/units/Demilich.cfg:4
 msgid "Demilich"
-msgstr ""
+msgstr "Skoromrtvý"
 
 #: Attack_of_the_Undead/units/Demilich.cfg:21
 msgid ""
@@ -276,7 +297,11 @@ msgid ""
 "bodies, becoming undead themselves. With time, they may become fully undead, "
 "and feared by all alike."
 msgstr ""
+"Po příliš dlouhém zahrávání si se zapomenutou magií a temnými uměními museli "
+"tito mágové zaplatit těžkou cenu. Skoromrtví začali ztracet vlastní těla, "
+"stavající se nemrtvími. Časem se snad mohli stát zcela nemtvými a obávaní "
+"všemi."
 
 #: Attack_of_the_Undead/utils/deaths.cfg:35
 msgid "Noooo, they have overrun us!"
-msgstr ""
+msgstr "Neee! Dostali se přes nás!"
